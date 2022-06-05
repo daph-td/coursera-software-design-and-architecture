@@ -1,3 +1,5 @@
+# Week 1
+## 
 ### Signs a software project needs better design and architecture:
 - did it have a good design?
 - could the design be done better?
