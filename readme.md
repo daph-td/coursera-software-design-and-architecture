@@ -1,6 +1,7 @@
-# Week 1
-## 1. Intro to the course
-### Signs a software project needs better design and architecture:
+# Course 1: Object-oriented analysis and design
+## Week 1
+### 1. Intro to software design and architecture
+#### Signs a software project needs better design and architecture:
 - did it have a good design?
 - could the design be done better?
 - was there even a design at all?
@@ -10,7 +11,7 @@
 - was your code hard to reuse?
 - was your software difficult to maintain after a release?
 
-### Course outline:
+#### Course outline:
 - object oriented design 
     - object oriented analysis and design
     - create flexible, reusable, and maintainable software 
@@ -21,3 +22,6 @@
 - service oriented architecture
     - web services
     - representational state transfer (REST)
+
+### 2. Object-oriented thinking
+### 3. Design in the software process
